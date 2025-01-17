@@ -1,0 +1,12 @@
+Feature,Importance
+stutter_specific_words,0.084375
+pause_variation,0.075
+repeated_p_words,0.075
+words_to_pause_ratio,0.040625
+unique_to_repeated_ratio,0.034375
+meaningful_to_stutter_ratio,0.01875
+p_words_count,0.0125
+total_words,0.0125
+avg_gap,0.0125
+interrupter_count,0.0
+initial_pause,-0.00625

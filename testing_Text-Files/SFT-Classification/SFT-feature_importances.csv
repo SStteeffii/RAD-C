@@ -1,0 +1,12 @@
+Feature,Importance
+repeated_animal_words,0.003125
+interrupter_count,0.003125
+unique_to_repeated_ratio,0.0
+initial_pause,0.0
+stutter_specific_words,-0.015625
+words_to_pause_ratio,-0.01875
+avg_gap,-0.021875
+pause_variation,-0.028125
+total_words,-0.028125
+animal_count,-0.034375
+meaningful_to_stutter_ratio,-0.04375
